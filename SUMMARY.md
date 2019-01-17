@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Summary
 
 * [两轮自平衡小车设计制作全攻略](README.md)
@@ -44,3 +45,9 @@
    * [平衡控制的负反馈特征及其稳定性](E06.md)
    * [正反馈与负反馈的统一](E07.md)
    
+=======
+# Table of contents
+
+* [Initial page](README.md)
+
+>>>>>>> 7890bb907b383421ced5a456855795bcef2f41ab
