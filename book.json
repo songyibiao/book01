@@ -1,0 +1,35 @@
+{
+    "title" : "两轮自平衡小车设计制作全攻略",
+	"author": "宋一标",
+    "description": "手把手教你设计制作两轮自平衡小车",
+	"language" : "zh-hans",
+	"styles": {
+    "website": "styles/website.css"
+  },
+	"plugins": [
+		"-search",
+		"-highlight",
+		"prism",
+		"include-codeblock",
+		"ace",
+		"katex"
+    ],
+    "pluginsConfig": {
+        "prism": {
+            "css": [
+                "prismjs/themes/prism-coy.css"				
+            ]			
+        },	
+        "tbfed-pagefooter": {
+            "copyright":"Copyright &copy 喵呜实验室MiaowLabs 2014-2018",
+            "modify_label": "该文件修订时间：",
+            "modify_format": "YYYY-MM-DD HH:mm:ss"
+        },
+		"include-codeblock": {
+            "template": "ace",
+            "unindent": true,
+            "theme": "monokai",
+			"edit": true
+        }
+    }
+}
