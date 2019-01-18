@@ -12,7 +12,8 @@
 		"prism",
 		"include-codeblock",
 		"ace",
-		"katex"
+		"katex",
+		"image-captions"
     ],
     "pluginsConfig": {
         "prism": {
@@ -32,4 +33,16 @@
 			"edit": true
         }
     }
+	"pdf": {
+    "pageNumbers": true, 
+    "fontFamily": "Arial",
+    "fontSize": 12,
+    "paperSize": "a4",
+    "margin": {
+      "right": 62,
+      "left": 62,
+      "top": 56,
+      "bottom": 56
+    }
+  }
 }
