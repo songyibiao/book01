@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 #两轮自平衡小车设计制作全攻略
 
 《两轮自平衡小车设计制作全攻略》是一本基于“小霸王Lite”项目的两轮自平衡小车设计、制作文档。
@@ -30,3 +31,8 @@
 > 读者可以在**[喵呜实验室MiaowLabs](www.miaowlabs.com)**查阅更多文档。
 
 
+=======
+# My Awesome Book
+
+This file file serves as your book's preface, a great place to describe your book's content and ideas.
+>>>>>>> 2c2a803dadf2cbfed6b3c2b8b34971b54a42e76c
