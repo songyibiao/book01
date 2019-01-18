@@ -1,7 +1,7 @@
 # Summary
 
 * [两轮自平衡小车设计制作全攻略](README.md)
-* [组装](A09.md)
+* [焊接、组装](A09.md)
 * [安装 Keil-MDK](A07.md)
 * [安装 STM32CubeMX](A08.md)
 * [安装喵呜地面站](A10.md)
