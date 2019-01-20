@@ -5,15 +5,14 @@
 	"language" : "zh-hans",
 	"styles": {
     "website": "styles/website.css"
-  },
+    },
 	"plugins": [
 		"-search",
 		"-highlight",
 		"prism",
 		"include-codeblock",
 		"ace",
-		"katex",
-		"image-captions"
+		"katex"
     ],
     "pluginsConfig": {
         "prism": {
@@ -21,11 +20,6 @@
                 "prismjs/themes/prism-coy.css"				
             ]			
         },	
-        "tbfed-pagefooter": {
-            "copyright":"Copyright &copy 喵呜实验室MiaowLabs 2014-2018",
-            "modify_label": "该文件修订时间：",
-            "modify_format": "YYYY-MM-DD HH:mm:ss"
-        },
 		"include-codeblock": {
             "template": "ace",
             "unindent": true,
@@ -34,3 +28,5 @@
         }
     }
 }
+
+

@@ -28,3 +28,7 @@
 授人以鱼不如授人以渔。我希望在本书中，没有无法复制的炫耀式的成功经验。一如既往地，我更喜欢说的是，这是什么、为什么，剩下的让读者自己去判断。
 
 > 读者可以在**[喵呜实验室MiaowLabs](www.miaowlabs.com)**查阅更多文档。
+
+### 排版规范
+
+本开源书籍遵循 [中文排版指南](https://github.com/mzlogin/chinese-copywriting-guidelines) 规范。
