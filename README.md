@@ -33,3 +33,9 @@
 
 「小霸王Lite」两轮自平衡小车采用 [知识共享署名-非商业性使用-相同方式共享 2.5 中国大陆许可协议](https://creativecommons.org/licenses/by-nc-sa/2.5/cn/) 进行许可。
 
+### 备份链接
+
+本书在 Love2 同步备份：
+
+> [https://love2.io/@songyibiao/doc/design-self-balancing-robot](https://love2.io/@songyibiao/doc/design-self-balancing-robot)
+
