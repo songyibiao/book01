@@ -1,6 +1,6 @@
 # 前言
 
-*修订说明：本书内容将基于 小霸王Lite 两轮自平衡小车 V3.0 （2019 年 1 月 1 日起出货） 进行重新修订，计划 2019 年 6 月底发布 0.9.0 版本。*
+*修订说明：本书内容将基于「小霸王Lite」两轮自平衡小车 V3.0 （2019 年 1 月 1 日起出货） 进行重新修订，计划 2019 年 6 月底发布 0.9.0 版本。*
 
 《两轮自平衡小车设计制作全攻略（入门级）》是一本基于[「小霸王Lite」](https://item.taobao.com/item.htm?spm=a230r.1.14.136.1533989fV7kj6a&id=568694879642&ns=1&abbucket=14#detail)两轮自平衡小车编写的电子书。「小霸王Lite」两轮自平衡小车在持续迭代着，尤其软件部分不断优化，直到把硬件的有限性能榨光为止。本书随之迭代而更新。
 
@@ -35,7 +35,7 @@
 
 ### 备份链接
 
-本书在 Love2 同步备份：
+本书在 Love2.io 同步备份：
 
 > [https://love2.io/@songyibiao/doc/design-self-balancing-robot](https://love2.io/@songyibiao/doc/design-self-balancing-robot)
 
