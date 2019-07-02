@@ -22,7 +22,7 @@
     "pluginsConfig": {
         "prism": {
             "css": [
-                "prismjs/themes/prism-coy.css"				
+                "prismjs/themes/prism-tomorrow.css"				
             ]			
         },	
 		"include-codeblock": {
