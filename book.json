@@ -1,7 +1,7 @@
 {
-    "title" : "两轮自平衡小车设计制作全攻略",
+    "title" : "给新手的两轮自平衡小车指南",
 	"author": "宋一标",
-    "description": "手把手教你设计制作两轮自平衡小车",
+    "description": "面向新手的两轮自平衡小车设计、制作教程。",
 	"language" : "zh-hans",
 	"styles": {
     "website": "styles/website.css"
@@ -9,10 +9,15 @@
 	"plugins": [
 		"-search",
 		"-highlight",
+		"splitter",
+		"back-to-top-button",
+		"copy-code-button",
 		"prism",
 		"include-codeblock",
 		"ace",
-		"katex"
+		"katex",
+		"image-captions",
+		"popup"
     ],
     "pluginsConfig": {
         "prism": {

@@ -33,7 +33,7 @@
     * [GPIO与LED闪烁的仪式感](A11.md)
     * [Timer与按键消抖的应用](A22.md)
     * [Usart与Printf函数重定向](A23.md)
-    * [Timer正交解码读取编码器与M法测速]()
+    * [Timer正交解码读取编码器](A24.md)
     * [PWM与TB6612FNG驱动电机]()
     * [IIC与读取MPU6050数据]()
     * [陀螺仪和加速度计与MPU6050](B07.md)
