@@ -18,14 +18,6 @@
 
 > [https://c.miaowlabs.com](https://c.miaowlabs.com)
 
-### 备份链接
-
-> *如果原链接长时间无法加载完整图片，可以尝试使用备份链接。*
-
-本书在 Love2.io 同步备份：
-
-> [备份链接](https://love2.io/@songyibiao/doc/design-self-balancing-robot)
-
 ### 联系我们
 
 > 邮箱：121349840@qq.com
