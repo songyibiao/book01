@@ -30,6 +30,11 @@
             "unindent": true,
             "theme": "monokai",
 			"edit": true
+        },
+		"fontsettings": {
+            "theme": "white", 
+            "family": "sans", 
+            "size": 4        
         }
     }
 }
