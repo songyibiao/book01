@@ -17,7 +17,8 @@
 		"ace",
 		"katex",
 		"image-captions",
-		"popup"
+		"popup",
+		"fontsettings"
     ],
     "pluginsConfig": {
         "prism": {
@@ -34,7 +35,7 @@
 		"fontsettings": {
             "theme": "white", 
             "family": "sans", 
-            "size": 4        
+            "size": 2        
         }
     }
 }
