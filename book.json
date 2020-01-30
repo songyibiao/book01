@@ -1,10 +1,15 @@
 {
-    "title" : "给新手的两轮自平衡小车指南",
+    "title" : "给新手的两轮自平衡小车制作指南",
 	"author": "宋一标",
     "description": "面向新手的两轮自平衡小车设计、制作教程。",
 	"language" : "zh-hans",
 	"styles": {
     "website": "styles/website.css"
+    },
+	"links" : {
+		"sidebar" : {
+			"给新手的两轮自平衡小车制作指南" : "https://c.miaowlabs.com/"
+		}
     },
 	"plugins": [
 		"-search",
@@ -18,9 +23,13 @@
 		"katex",
 		"image-captions",
 		"popup",
-		"fontsettings"
+		"fontsettings",
+		"theme-comscore"
     ],
     "pluginsConfig": {
+		"theme-default": {
+			"showLevel": true
+		},
         "prism": {
             "css": [
                 "prismjs/themes/prism-tomorrow.css"				
