@@ -1,1 +1,13 @@
-img{ positon:relative; width:80%; left:10%;/*left为（img父元素元素的width - img元素自己的width)÷2*/ }
+img[src*='#left'] {
+    float: left;
+}
+img[src*='#right'] {
+    float: right;
+}
+img[src*='#center'] {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+    float: none!important;
+}

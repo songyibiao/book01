@@ -45,7 +45,10 @@
             "theme": "white", 
             "family": "sans", 
             "size": 2        
-        }
+		},
+		"image-captions": {
+			"caption": "Image _PAGE_LEVEL_._PAGE_IMAGE_NUMBER_ - _CAPTION_"
+		}
     }
 }
 

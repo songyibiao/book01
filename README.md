@@ -17,7 +17,7 @@
 
 ### 配套硬件
 
-淘宝链接：[「小霸王Lite」两轮自平衡小车](https://item.taobao.com/item.htm?spm=a230r.1.14.188.5d8d989fX6rDBH&id=568694879642&ns=1&abbucket=14#detail)
+淘宝链接：[「小霸王Lite」两轮自平衡小车](https://item.taobao.com/item.htm?spm=a1z10.1-c-s.w4004-18338352539.3.23461548V1pDRV&id=614152006353)
 
 > *使用配套硬件，可以节省硬件调试的时间，腾出更多时间来研究算法和代码。*
 
@@ -43,7 +43,7 @@
 
 ### 排版规范
 
-本书遵循 [中文排版指南](https://github.com/mzlogin/chinese-copywriting-guidelines) 规范。
+本书遵循 [中文文案排版指北（简体中文版）](https://github.com/mzlogin/chinese-copywriting-guidelines) 规范。
 
 ### 版权所有
 
