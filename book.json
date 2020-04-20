@@ -1,14 +1,14 @@
 {
-    "title" : "给新手的两轮自平衡小车开发实战指南",
+    "title" : "给新手的两轮自平衡小车制作指南",
 	"author": "宋一标",
-    "description": "给新手的两轮自平衡小车开发实战指南",
+    "description": "给新手的两轮自平衡小车制作指南",
 	"language" : "zh-hans",
 	"styles": {
     "website": "styles/website.css"
     },
 	"links" : {
 		"sidebar" : {
-			"给新手的两轮自平衡小车开发实战指南" : "https://c.miaowlabs.com/"
+			"给新手的两轮自平衡小车制作指南" : "https://c.miaowlabs.com/"
 		}
     },
 	"plugins": [
