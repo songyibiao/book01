@@ -24,7 +24,8 @@
 		"image-captions",
 		"popup",
 		"fontsettings",
-		"theme-comscore"
+		"theme-comscore",
+		"multipart"
     ],
     "pluginsConfig": {
 		"theme-default": {
