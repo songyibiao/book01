@@ -31,7 +31,7 @@
 
 在分发本书时，请完整保留本书原链接：
 
-> [https://c.miaowlabs.com](https://c.miaowlabs.com)
+> [https://miaowlabs.com/book/lite](https://miaowlabs.com/book/lite)
 
 > *本书提供在线阅读，并提供 PDF 离线版本。推荐在线阅读，在线阅读的视频观看效果更佳。*
 
