@@ -1,7 +1,6 @@
 # Summary
 
 ## 前言
-* [Custom introduction name](README.md)
 * [前言](README.md)
 * [推荐学习路线](A32.md) 
 

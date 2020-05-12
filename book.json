@@ -6,6 +6,9 @@
 	"styles": {
     "website": "styles/website.css"
     },
+	"structure": {
+        "readme": "README.md"
+    },
 	"links" : {
 		"sidebar" : {
 			"给新手的两轮自平衡小车开发实战指南" : "https://c.miaowlabs.com/"
